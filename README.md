@@ -867,7 +867,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 🔒 <a name="security"></a>Security
 
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
-  [![Forge MCP connector](https://glama.ai/mcp/connectors/app.forge/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.forge/scan)
+  [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Plain-English security audits for shipped code: turns scanner noise into clear risks + fixes, exposed over MCP so your agent can scan and read reports.
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
